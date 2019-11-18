@@ -6,7 +6,7 @@
         countentful_test
       </h1>
       <h2 class="subtitle">
-        contentful project
+        contentful project!!!
       </h2>
       <div class="links">
         <a
